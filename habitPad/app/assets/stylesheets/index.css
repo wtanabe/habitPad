@@ -1,0 +1,13 @@
+#interface {
+	display: flex;
+	flex-direction: row;
+}
+
+#repeat_switch {
+	display: flex;
+	flex-direction: column;
+}
+
+#checkbox {
+
+}
